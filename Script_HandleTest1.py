@@ -49,7 +49,7 @@ class World(DirectObject):
         base.camera.setP(base.camera, -10)
         self.distTrav = 0
         taskMgr.add(self.droneControl, 'Drone Control')
-        #taskMgr.doMethodLater(5, self.debugTask, 'Debug Task')
+        taskMgr.doMethodLater(5, self.debugTask, 'Debug Task')
         taskMgr.add(self.DroneReset, 'Reset Drone')
         taskMgr.add(self.updateSmiley, "updateSmiley")
         self.accept("h", self.Hello)
