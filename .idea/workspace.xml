@@ -14,13 +14,8 @@
       <file leaf-file-name="Script_HandleTest1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Script_HandleTest1.py">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
             <state relative-caret-position="102">
               <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-=======
-            <state relative-caret-position="44">
-              <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
->>>>>>> e36c9b9183a12f8cf87f41bacbeca042fee22673
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -31,13 +26,8 @@
       <file leaf-file-name="SendData.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Documents/GitHub/labstreaminglayer/LSL/liblsl-Python/examples/SendData.py">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
             <state relative-caret-position="323">
               <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-=======
-            <state relative-caret-position="85">
-              <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
->>>>>>> e36c9b9183a12f8cf87f41bacbeca042fee22673
               <folding>
                 <element signature="e#86#97#0" expanded="true" />
               </folding>
@@ -45,18 +35,8 @@
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
       <file leaf-file-name="ReceiveAndPlot.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Documents/GitHub/labstreaminglayer/LSL/liblsl-Python/examples/ReceiveAndPlot.py">
-=======
-      <file leaf-file-name="NetworkHandler.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NetworkHandler.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="ServerCook.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ServerCook.py">
->>>>>>> e36c9b9183a12f8cf87f41bacbeca042fee22673
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="986">
               <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
@@ -160,11 +140,6 @@
         <option value="$PROJECT_DIR$/ServerMine.py" />
         <option value="$PROJECT_DIR$/Server1.py" />
         <option value="$PROJECT_DIR$/ServerCook.py" />
-<<<<<<< HEAD
-=======
-        <option value="$PROJECT_DIR$/NetClasses.py" />
-        <option value="$PROJECT_DIR$/NetworkHandler.py" />
->>>>>>> e36c9b9183a12f8cf87f41bacbeca042fee22673
         <option value="$PROJECT_DIR$/Script_HandleTest1.py" />
       </list>
     </option>
@@ -323,21 +298,12 @@
       <item index="4" class="java.lang.String" itemvalue="Python.ServerCook" />
     </list>
     <recent_temporary>
-<<<<<<< HEAD
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.Script_HandleTest1 (1)" />
         <item index="1" class="java.lang.String" itemvalue="Python.Server1" />
         <item index="2" class="java.lang.String" itemvalue="Python.Client" />
         <item index="3" class="java.lang.String" itemvalue="Python.ServerCook" />
         <item index="4" class="java.lang.String" itemvalue="Python.ServerMine" />
-=======
-      <list>
-        <item itemvalue="Python.Script_HandleTest1 (1)" />
-        <item itemvalue="Python.Client" />
-        <item itemvalue="Python.Server1" />
-        <item itemvalue="Python.ServerCook" />
-        <item itemvalue="Python.ServerMine" />
->>>>>>> e36c9b9183a12f8cf87f41bacbeca042fee22673
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +333,6 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-<<<<<<< HEAD
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
@@ -389,31 +354,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-=======
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13385417" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="R Graphics" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.328125" side_tool="true" visible="true" weight="0.31987247" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.671875" visible="true" weight="0.31987247" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.4969743" weight="0.32894737" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49092284" weight="0.32894737" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4969743" weight="0.39967105" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="Data View" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
->>>>>>> e36c9b9183a12f8cf87f41bacbeca042fee22673
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -449,7 +389,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Script_HandleTest1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1338">
@@ -467,8 +406,6 @@
         </state>
       </provider>
     </entry>
-=======
->>>>>>> e36c9b9183a12f8cf87f41bacbeca042fee22673
     <entry file="file://$PROJECT_DIR$/Saves/Script.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -646,18 +583,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NetworkHandler.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Script_HandleTest1.py">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
         <state relative-caret-position="102">
           <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-=======
-        <state relative-caret-position="44">
-          <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
->>>>>>> e36c9b9183a12f8cf87f41bacbeca042fee22673
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
@@ -666,17 +595,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NetClasses.py">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
         <state relative-caret-position="481">
           <caret line="113" column="44" lean-forward="true" selection-start-line="113" selection-start-column="44" selection-end-line="113" selection-end-column="44" />
-=======
-        <state relative-caret-position="85">
-          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-            <marker date="1522443115216" expanded="true" signature="2918:2923" ph="..." />
-          </folding>
->>>>>>> e36c9b9183a12f8cf87f41bacbeca042fee22673
         </state>
       </provider>
     </entry>
