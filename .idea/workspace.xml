@@ -14,8 +14,13 @@
       <file leaf-file-name="Script_HandleTest1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Script_HandleTest1.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="-1338">
               <caret line="65" column="31" lean-forward="false" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
+=======
+            <state relative-caret-position="17">
+              <caret line="29" column="63" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -26,9 +31,17 @@
       <file leaf-file-name="ReceiveDataInChunks.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ReceiveDataInChunks.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="187">
               <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
               <folding />
+=======
+            <state relative-caret-position="612">
+              <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
             </state>
           </provider>
         </entry>
@@ -36,8 +49,13 @@
       <file leaf-file-name="SendData.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Documents/GitHub/labstreaminglayer/LSL/liblsl-Python/examples/SendData.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="323">
               <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+=======
+            <state relative-caret-position="1360">
+              <caret line="89" column="31" selection-start-line="89" selection-start-column="31" selection-end-line="89" selection-end-column="31" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
               <folding>
                 <element signature="e#86#97#0" expanded="true" />
               </folding>
@@ -48,9 +66,17 @@
       <file leaf-file-name="ReceiveAndPlot.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Documents/GitHub/labstreaminglayer/LSL/liblsl-Python/examples/ReceiveAndPlot.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="986">
               <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
               <folding />
+=======
+            <state relative-caret-position="357">
+              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
             </state>
           </provider>
         </entry>
@@ -58,8 +84,13 @@
       <file leaf-file-name="ServerCook.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ServerCook.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="527">
               <caret line="37" column="48" lean-forward="false" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
+=======
+            <state relative-caret-position="374">
+              <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -70,9 +101,14 @@
       <file leaf-file-name="Script.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Saves/Script.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="510">
               <caret line="31" column="25" lean-forward="false" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
               <folding />
+=======
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
             </state>
           </provider>
         </entry>
@@ -80,11 +116,16 @@
       <file leaf-file-name="Script_HandleTest1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Saves/Script_HandleTest1.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="391">
               <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
+=======
+            <state relative-caret-position="9588">
+              <caret line="564" column="11" selection-start-line="564" selection-start-column="4" selection-end-line="564" selection-end-column="11" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
             </state>
           </provider>
         </entry>
@@ -133,7 +174,10 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+=======
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -176,22 +220,11 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,9 +239,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHubDesktop/bin/github" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+=======
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -229,8 +268,14 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.Script_HandleTest1">
     <configuration name="Aplication" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.Script_HandleTest1 (1)">
+    <configuration name="Client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Beginers Guide Game" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -241,13 +286,23 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <module name="Beginers Guide Game" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aplication.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Client.py" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="ReceiveDataInChunks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="Script_HandleTest1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Beginers Guide Game" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -258,13 +313,23 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <module name="Beginers Guide Game" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReceiveDataInChunks.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Script_HandleTest1.py" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="Script_HandleTest1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="Server1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Beginers Guide Game" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -275,13 +340,23 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <module name="Beginers Guide Game" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Saves/Script_HandleTest1.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Server1.py" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="Script_HandleTest1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="ServerCook" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Beginers Guide Game" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -292,13 +367,23 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <module name="Beginers Guide Game" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Script_HandleTest1.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ServerCook.py" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="SendData" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="ServerMine" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Beginers Guide Game" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -309,12 +394,18 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <module name="Beginers Guide Game" />
       <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/GitHub/labstreaminglayer/LSL/liblsl-Python/examples/SendData.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ServerMine.py" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.SendData" />
       <item index="1" class="java.lang.String" itemvalue="Python.ReceiveDataInChunks" />
@@ -329,11 +420,27 @@
         <item index="2" class="java.lang.String" itemvalue="Python.Script_HandleTest1 (1)" />
         <item index="3" class="java.lang.String" itemvalue="Python.ReceiveDataInChunks" />
         <item index="4" class="java.lang.String" itemvalue="Python.SendData" />
+=======
+    <list>
+      <item itemvalue="Python.Script_HandleTest1 (1)" />
+      <item itemvalue="Python.Client" />
+      <item itemvalue="Python.Server1" />
+      <item itemvalue="Python.ServerMine" />
+      <item itemvalue="Python.ServerCook" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Script_HandleTest1 (1)" />
+        <item itemvalue="Python.Server1" />
+        <item itemvalue="Python.Client" />
+        <item itemvalue="Python.ServerCook" />
+        <item itemvalue="Python.ServerMine" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -355,6 +462,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.051437218" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -375,49 +483,91 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+=======
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13385417" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
+      <window_info anchor="right" id="R Packages" order="3" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.32760417" side_tool="true" visible="true" weight="0.31987247" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.4969743" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6723958" weight="0.31987247" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49092284" weight="0.32894737" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4969743" weight="0.39967105" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Data View" order="3" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32072368" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1633888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967105" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.1633888" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32072368" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32894737" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39967105" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32894737" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Script.py" />
     <entry file="file://$PROJECT_DIR$/Handle Tests/Script1.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="0">
           <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+=======
+        <state relative-caret-position="9588">
+          <caret line="564" column="11" selection-start-line="564" selection-start-column="4" selection-end-line="564" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26979">
+          <caret line="1587" column="37" selection-start-line="1587" selection-start-column="37" selection-end-line="1587" selection-end-column="37" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Script1.py" />
     <entry file="file://$PROJECT_DIR$/../mystuff/myscript2.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="163">
           <caret line="84" column="46" lean-forward="false" selection-start-line="84" selection-start-column="46" selection-end-line="84" selection-end-column="46" />
+=======
+        <state relative-caret-position="2227">
+          <caret line="132" column="30" selection-start-line="132" selection-start-column="30" selection-end-line="132" selection-end-column="30" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
         </state>
       </provider>
     </entry>
@@ -439,57 +589,97 @@
     <entry file="file://$PROJECT_DIR$/WorldClass_01.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state relative-caret-position="26979">
+          <caret line="1587" column="37" selection-start-line="1587" selection-start-column="37" selection-end-line="1587" selection-end-column="37" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Server.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="238">
           <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+=======
+        <state relative-caret-position="2227">
+          <caret line="132" column="30" selection-start-line="132" selection-start-column="30" selection-end-line="132" selection-end-column="30" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="8959">
           <caret line="564" column="11" lean-forward="false" selection-start-line="564" selection-start-column="4" selection-end-line="564" selection-end-column="11" />
+=======
+        <state relative-caret-position="26350">
+          <caret line="1587" column="37" selection-start-line="1587" selection-start-column="37" selection-end-line="1587" selection-end-column="37" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Server1.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="357">
           <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+=======
+        <state relative-caret-position="26350">
+          <caret line="1587" column="37" selection-start-line="1587" selection-start-column="37" selection-end-line="1587" selection-end-column="37" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ServerMine.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="1394">
           <caret line="89" column="31" lean-forward="false" selection-start-line="89" selection-start-column="31" selection-end-line="89" selection-end-column="31" />
+=======
+        <state relative-caret-position="26979">
+          <caret line="1587" column="37" selection-start-line="1587" selection-start-column="37" selection-end-line="1587" selection-end-column="37" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Client.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="331">
           <caret line="24" column="57" lean-forward="false" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+=======
+        <state relative-caret-position="26979">
+          <caret line="1587" column="37" selection-start-line="1587" selection-start-column="37" selection-end-line="1587" selection-end-column="37" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ClientMine.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="0">
           <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+=======
+        <state relative-caret-position="26979">
+          <caret line="1587" column="37" selection-start-line="1587" selection-start-column="37" selection-end-line="1587" selection-end-column="37" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/inputlayer.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="476">
           <caret line="29" column="17" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="17" />
+=======
+        <state relative-caret-position="26979">
+          <caret line="1587" column="37" lean-forward="true" selection-start-line="1587" selection-start-column="37" selection-end-line="1587" selection-end-column="37" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
         </state>
       </provider>
     </entry>
@@ -497,27 +687,43 @@
     <entry file="file://$USER_HOME$/Documents/GitHub/pylsl/setup.py" />
     <entry file="file://$USER_HOME$/Documents/GitHub/labstreaminglayer/LSL/liblsl-Python/examples/SendStringMarkers.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-9">
           <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+=======
+        <state relative-caret-position="17425">
+          <caret line="1025" selection-start-line="1025" selection-end-line="1025" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Documents/GitHub/labstreaminglayer/LSL/liblsl-Python/examples/ReceiveData.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="238">
           <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+=======
+        <state relative-caret-position="17425">
+          <caret line="1025" selection-start-line="1025" selection-end-line="1025" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Documents/GitHub/labstreaminglayer/LSL/liblsl-Python/examples/PerformanceTest.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state relative-caret-position="17">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../python/Tools/Scripts/checkpip.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
@@ -538,12 +744,29 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../python/Tools/Scripts/serve.py">
+=======
+        <state>
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Script1.py" />
+    <entry file="file://$PROJECT_DIR$/../mystuff/myscript2.py" />
+    <entry file="file://$PROJECT_DIR$/CycleClass_01.py" />
+    <entry file="file://$PROJECT_DIR$/Script.py" />
+    <entry file="file://$PROJECT_DIR$/WorldClass.py" />
+    <entry file="file://$PROJECT_DIR$/DroneClass_01.py" />
+    <entry file="file://$PROJECT_DIR$/DroneClass_02.py" />
+    <entry file="file://$PROJECT_DIR$/WorldClass_02.py" />
+    <entry file="file://$PROJECT_DIR$/Handle Tests/Script_HandleTest1.py">
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-281">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$USER_HOME$/Documents/GitHub/labstreaminglayer/LSL/liblsl-Python/examples/ReceiveDataInChunks.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -562,11 +785,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/WorldClass_03.py" />
+    <entry file="file://$PROJECT_DIR$/trackClass.py" />
+    <entry file="file://$PROJECT_DIR$/WorldClass_01.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+    <entry file="file://$PROJECT_DIR$/Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../samples/solar-system/step6_controllable_system.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
@@ -577,11 +811,16 @@
         <state relative-caret-position="986">
           <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding />
+=======
+        <state relative-caret-position="9588">
+          <caret line="564" column="11" selection-start-line="564" selection-start-column="4" selection-end-line="564" selection-end-column="11" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../samples/ball-in-maze/main.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
@@ -620,13 +859,22 @@
         <state relative-caret-position="187">
           <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
           <folding />
+=======
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Documents/GitHub/labstreaminglayer/LSL/liblsl-Python/examples/SendData.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="323">
           <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+=======
+        <state relative-caret-position="374">
+          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
           <folding>
             <element signature="e#86#97#0" expanded="true" />
           </folding>
@@ -635,13 +883,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/KeyboardMouseHandler.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="17">
           <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+=======
+        <state relative-caret-position="357">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Saves/julio.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
@@ -659,6 +916,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="37" column="48" lean-forward="false" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
+=======
+        <state relative-caret-position="1360">
+          <caret line="89" column="31" selection-start-line="89" selection-start-column="31" selection-end-line="89" selection-end-column="31" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
@@ -667,8 +928,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Saves/Script_HandleTest1.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="391">
           <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+=======
+        <state relative-caret-position="612">
+          <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
@@ -684,8 +950,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Script_HandleTest1.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-1338">
           <caret line="65" column="31" lean-forward="false" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
+=======
+        <state relative-caret-position="17">
+          <caret line="29" column="63" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
+>>>>>>> 75e927c47f6be693489be225b2d1d3f3fb452bc7
           <folding>
             <element signature="e#0#36#0" expanded="true" />
             <marker date="1522440371252" expanded="true" signature="3330:3363" ph="..." />
