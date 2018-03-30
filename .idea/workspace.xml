@@ -14,8 +14,8 @@
       <file leaf-file-name="Script_HandleTest1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Script_HandleTest1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-731">
-              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            <state relative-caret-position="44">
+              <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -26,14 +26,19 @@
       <file leaf-file-name="NetClasses.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NetClasses.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="113" column="44" lean-forward="true" selection-start-line="113" selection-start-column="44" selection-end-line="113" selection-end-column="44" />
+            <state relative-caret-position="85">
+              <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
                 <marker date="1522443115216" expanded="true" signature="2918:2923" ph="..." />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NetworkHandler.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NetworkHandler.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="ServerCook.py" pinned="false" current-in-tab="false">
@@ -142,12 +147,13 @@
         <option value="$PROJECT_DIR$/ServerMine.py" />
         <option value="$PROJECT_DIR$/Server1.py" />
         <option value="$PROJECT_DIR$/ServerCook.py" />
-        <option value="$PROJECT_DIR$/Script_HandleTest1.py" />
         <option value="$PROJECT_DIR$/NetClasses.py" />
+        <option value="$PROJECT_DIR$/NetworkHandler.py" />
+        <option value="$PROJECT_DIR$/Script_HandleTest1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -196,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Client">
+  <component name="RunManager" selected="Python.Script_HandleTest1 (1)">
     <configuration name="Client" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Beginers Guide Game" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,9 +302,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Script_HandleTest1 (1)" />
         <item itemvalue="Python.Client" />
         <item itemvalue="Python.Server1" />
-        <item itemvalue="Python.Script_HandleTest1 (1)" />
         <item itemvalue="Python.ServerCook" />
         <item itemvalue="Python.ServerMine" />
       </list>
@@ -327,15 +333,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2682672" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13385417" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
       <window_info anchor="right" id="R Packages" />
       <window_info anchor="right" id="R Graphics" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.32776618" side_tool="true" visible="true" weight="0.32296136" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6722338" weight="0.32296136" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.328125" side_tool="true" visible="true" weight="0.31987247" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.671875" visible="true" weight="0.31987247" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.4969743" weight="0.32894737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -381,13 +387,6 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Handle Tests/Script1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2227">
-          <caret line="132" column="30" selection-start-line="132" selection-start-column="30" selection-end-line="132" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Saves/Script.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -579,10 +578,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/NetworkHandler.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Script_HandleTest1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-731">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        <state relative-caret-position="44">
+          <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
@@ -591,8 +593,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NetClasses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="113" column="44" lean-forward="true" selection-start-line="113" selection-start-column="44" selection-end-line="113" selection-end-column="44" />
+        <state relative-caret-position="85">
+          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
             <marker date="1522443115216" expanded="true" signature="2918:2923" ph="..." />
