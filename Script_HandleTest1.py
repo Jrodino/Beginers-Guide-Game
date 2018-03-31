@@ -4,21 +4,20 @@ from direct.distributed.PyDatagram import PyDatagram
 from direct.distributed.PyDatagramIterator import PyDatagramIterator
 from panda3d.core import *
 import random
-from ServerCook import *
+from direct.actor.Actor import Actor
+from panda3d.core import *
+from NetworkHandler import NetworkHandler
+from NetClasses import Server, Client, ServerProtocol, ClientProtocol
 
 class World(DirectObject):
 
     def __init__(self):
         base.disableMouse()
-        server = Server(ServerProtocol(), 9999)
 
         self.smiley = loader.loadModel("Models/MartinBall.egg")
         self.smiley.setPythonTag("velocity", 0)
         self.smiley.reparentTo(render)
         self.smiley.setPos(0, 0, 30)
-
-        client = Client(ClientProtocol2(self.smiley))
-        client.connect("localhost", 9999, 3000)
 
         self.speed = 0
         self.throttle = 0
@@ -41,7 +40,7 @@ class World(DirectObject):
                        "g": False}
         self.drone = loader.loadModel('Models/Drone/sad_drone.egg')
         self.drone.reparentTo(render)
-        self.drone.setPos(0, 5, 10)
+        self.drone.setPos(40, 40, 10)
         self.drone.setScale(0.2)
         base.camera.reparentTo(self.drone)
         base.camera.setY(base.camera, -20)
@@ -49,9 +48,13 @@ class World(DirectObject):
         base.camera.setP(base.camera, -10)
         self.distTrav = 0
         taskMgr.add(self.droneControl, 'Drone Control')
-        taskMgr.doMethodLater(5, self.debugTask, 'Debug Task')
+        #taskMgr.doMethodLater(5, self.debugTask, 'Debug Task')
         taskMgr.add(self.DroneReset, 'Reset Drone')
         taskMgr.add(self.updateSmiley, "updateSmiley")
+
+        self.setupNetInput()
+        self.setupNetwork()
+
         self.accept("h", self.Hello)
         self.accept("w", self.setKey, ["w", True])
         self.accept("s", self.setKey, ["s", True])
@@ -71,6 +74,8 @@ class World(DirectObject):
         self.accept("mouse3-up", self.setKey, ["mouse3", False])
         self.accept("g", self.setKey, ["g", True])
         self.accept("g-up", self.setKey, ["g", False])
+
+
 
     def updateSmiley(self, task):
         vel = self.smiley.getPythonTag("velocity")
@@ -113,6 +118,18 @@ class World(DirectObject):
         self.speedCheck(dt)
         self.move(dt)
         return task.cont
+    def setupNetInput(self):
+        dt = globalClock.getDt()
+        self.accept("net-fly-start", self.setKey, ["w", True])
+        self.accept("net-fly-stop", self.setKey, ["s", True])
+        self.accept("net-turn-left", self.setKey, ["a", True])
+        self.accept("net-turn-right", self.setKey, ["d", True])
+
+    def setupNetwork(self):
+        server = Server(ServerProtocol(), 9999)
+        client = Client(ClientProtocol())
+        client.connect("localhost", 9999, 3000)
+        client.start()
 
     def cameraZoom(self, dir, dt):
         if dir == "in":

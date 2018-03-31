@@ -1,7 +1,6 @@
 from panda3d.core import *
 from direct.distributed.PyDatagram import PyDatagram
-from direct.distributed.PyDatagramIterator import
-PyDatagramIterator
+from direct.distributed.PyDatagramIterator import PyDatagramIterator
 from random import choice
 
 class NetCommon:
@@ -94,21 +93,21 @@ class ServerProtocol(Protocol):
 
         return self.buildReply(0, "ok")
 
+
 class ClientProtocol(Protocol):
     def __init__(self):
-    self.lastCommand = globalClock.getFrameTime()
+        self.lastCommand = globalClock.getFrameTime()
 
-    self.commands = ["net-walk-start",
-                     "net-walk-stop",
-                     "net-left-start",
-                     "net-left-stop",
-                     "net-right-start",
-                     "net-right-stop"]
+        self.commands = ["net-fly-start",
+                         "net-fly-stop"]
+                         #"net-turn-left",
+                         #"net-turn-right"]
 
     def process(self, data):
         time = globalClock.getFrameTime()
         if time - self.lastCommand > 0.5:
             self.lastCommand = time
+            #Here is where the message is sent
             return self.buildReply(1, choice(self.commands))
         else:
             return self.buildReply(0, "nop")
