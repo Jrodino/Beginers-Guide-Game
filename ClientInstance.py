@@ -9,7 +9,7 @@ class ClientI(DirectObject):
     def setupClient(self):
 
         client = Client(ClientProtocol())
-        client.connect("localhost", 9999, 3000)
+        client.connect("localhost" , 9999, 3000)
         client.start()
 w = ClientI()
 base.run()
