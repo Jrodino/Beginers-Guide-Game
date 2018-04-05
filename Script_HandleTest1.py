@@ -127,9 +127,9 @@ class World(DirectObject):
 
     def setupNetwork(self):
         server = Server(ServerProtocol(), 9999)
-        client = Client(ClientProtocol())
-        client.connect("localhost", 9999, 3000)
-        client.start()
+        #client = Client(ClientProtocol())
+        #client.connect("localhost", 9999, 3000)
+        #client.start()
 
     def cameraZoom(self, dir, dt):
         if dir == "in":
